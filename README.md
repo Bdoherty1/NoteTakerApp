@@ -37,7 +37,7 @@ No installation required. Simply access the deployed application.
 - Express
 
 ## Credits
-This application was created by [Your Name].
+This application was created by Bdoherty1.
 
 ## License
-This project is licensed under the [License Name] License - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
