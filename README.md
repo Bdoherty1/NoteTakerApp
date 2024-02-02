@@ -1,7 +1,12 @@
 # Note Taker Application
 
 ## Description
-A simple note-taking application that allows users to write, save, and organize their notes.
+This Node.js application, leveraging Inquirer and MySQL, functions as a CMS for effortless management of a company's employee database. Business owners can efficiently view, organize, and plan their company structure with features like:
+
+View departments, roles, and employees.
+Add new departments, roles, and employees.
+Update employee roles for effective organizational planning.
+
 
 ## Usage
 
